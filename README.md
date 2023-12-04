@@ -12,4 +12,5 @@
   <li><h3>React and Next.js:</h3> YelpCamp leverages the power of React for building dynamic and interactive user interfaces, and Next.js for server-side rendering. This combination provides a smooth and performant user experience.</li>
   <li><h3>TypeScript:</h3> The entire codebase is written in TypeScript, offering static typing for enhanced code quality and maintainability. TypeScript helps catch potential issues during development and improves overall developer productivity.</li> 
   <li><h3>Tailwind CSS:</h3> YelpCamp uses Tailwind CSS for styling, providing a utility-first CSS framework that enables rapid development and easy customization. Tailwind ensures a consistent and visually appealing design throughout the application.</li> 
+  <li><h3>Dynamic Routing:</h3> The application leverages Next.js for dynamic routing, enabling the creation of dynamic pages based on data. This ensures a flexible and scalable architecture for managing various campgrounds, locations, and user interactions.</li>
 </ul>
