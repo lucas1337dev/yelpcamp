@@ -1,6 +1,6 @@
 <h1>YelpCamp</h1> 
 
-<p>YelpCamp is a web application built with the latest web technologies, including React, Next.js, TypeScript, and Tailwind CSS. This project, originating from Codewell, serves as an excellent example of a modern and feature-rich camping-related application.</p> 
+<p>YelpCamp is a single page web application built with the latest web technologies, including React, Next.js, TypeScript, and Tailwind CSS. This project, originating from Codewell, serves as an excellent example of a modern and feature-rich camping-related application.</p> 
 
 <img src='https://github.com/lucas1337dev/yelpcamp/blob/main/public/yelpcamp-lilac.vercel.app_home.png' alt="Project Image" />
 
